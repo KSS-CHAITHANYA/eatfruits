@@ -1,4 +1,4 @@
-In this project, let's build a **Fruits Counter** by applying the concepts we have learned till now.
+In this project, I designed a **Fruits Counter**. 
 
 ### Refer to the image below:
 
